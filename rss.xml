@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Enersun]]></title>
         <description><![CDATA[Enersun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/enersun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 07:12:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 12:57:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/enersun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A novel and cost-effective technology on Compact Linear Fresnel Reﬂector (CLFR) has been developed indigenously by Enersun Power Tech Pvt. Ltd, Mumbai. Enersun is a Solar Thermal Energy Company, focussed on providing energy solutions based on a unique, modular technology for solar concentration. The technology has been designed by Professor J B Joshi and Professor S V Panse and has multiple advantages and is named as ‘Joshi–Panse Solar Concentrator’. The technology is based on massmanufactured components designed for rapid construction, uniform modularity, and unlimited scalability. Problems Addressed on Existing CSTs Economical and robust technology to concentrate solar energy is the need of the hour. Technologies for solar collectors in the market today (e.g., Parabolic trough, Parabolic dish, Fresnel reﬂectors, Schefﬂer dish, and Solar Tower) require signiﬁcantly larger land area than aperture area to avoid shadow of one reﬂector falling on the adjacent one. This is a disadvantage, particularly for process heat applications because land in an industrial area is always at a high premium. Also, solar concentrators have to be robust to withstand considerable wind load. This entails a major component of their total cost. To reduce cost, they should, therefore, experience substantially reduced wind load, even under stormy conditions. Also, strips in Fresnel reﬂectors have to be rotated independently for solar tracking. So their mounting and rotating mechanisms are more involved and costly. Cost will reduce, if a set of reﬂector strips is mounted on a single support, and moved together for solar tracking. The Joshi–Panse Solar Concentrator successfully addresses these problems. Also, there are advantages of reduced heat losses and smaller tracking movement of reﬂector strips</p>]]></description>
-            <link>undefineda-novel-and-cost-effective-technology-on-compact-linear-fres/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/562fa545-c0bf-4cd3-8616-2846cf843198.jpg">]]></description>
+            <link>https://thegrid.ai/enersun/a-novel-and-cost-effective-technology-on-compact-linear-fres/index.html</link>
             <guid isPermaLink="false">8090265b-2ca8-48a8-a120-f2b3f033312d</guid>
-            <pubDate>Wed, 27 Apr 2016 07:12:04 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 12:56:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
