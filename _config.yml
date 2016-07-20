@@ -1,9 +1,7 @@
-favicon: null
 name: Enersun
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.45917
+typography_spectrum: 0.48733
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8338478363584727
-  brandStrength: 0.3147595184855163
-  rhythmicContrast: 0.5
   brandColors:
     - '#b1d8f9'
     - '#727b7a'
     - '#292826'
     - '#385b6f'
     - '#fefefe'
+  brandStrength: 0.3147595184855163
   lightness: 0.625
-typography_spectrum: 0.48733
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.6471536
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.8338478363584727
+  rhythmicContrast: 0.5
+purpose: []
